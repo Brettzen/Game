@@ -1,2 +1,2 @@
 # Game
-Some sort of game... details to come
+Test game made to test the Phaser game engine
